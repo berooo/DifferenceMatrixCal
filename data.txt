@@ -1,0 +1,6 @@
+test_1 test_2 test_3 test_4 test_5
+nominal ordinal numeric binary_asymmetric numeric
+A 3 45 1 58
+B 1 22 0 39
+C 2 64 0 80
+A 3 28 1 40
